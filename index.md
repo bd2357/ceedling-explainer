@@ -7,6 +7,8 @@ Just launched and connected to [my domain](https://ceedling.bd2357.org)
 ![project](/docs/assets/images/ceedling000.PNG)
 
 ---
+[test](/docs/about.md)
+[test2](/docs/reference/ceedling/ceedling.md)
 
 
 
