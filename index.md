@@ -4,7 +4,7 @@
 
 Just launched and connected to [my domain](https://ceedling.bd2357.org)
 
-![project](/ceedling-explainer/images/ceedling000.PNG)
+![project](/ceedling-explainer/docs/assets/images/ceedling000.PNG)
 ---
 
 
