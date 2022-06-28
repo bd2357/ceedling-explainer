@@ -14,4 +14,5 @@ You can use the [editor on GitHub](https://github.com/bd2357/ceedling-explainer/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[How To Use Pages Here](https://github.com/tomcam/least-github-pages)
 
